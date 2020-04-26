@@ -1,6 +1,6 @@
-﻿# cube_first_project
+﻿# Animated cube 3D
 
-# Technoglogies
+# Technologies
 JS, HTML, CSS (SCSS)
 
 # Description
