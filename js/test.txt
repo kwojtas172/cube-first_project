@@ -1,0 +1,117 @@
+
+
+1:
+1, 1, 0, -5deg
+
+@keyframes turning {
+    0% {transform: rotate3d(1, 1, 1, -25deg)}
+    10% {transform: rotate3d(1, 0, 1, -60deg)}
+    20% {transform: rotate3d(1, -1, 0, -90deg)}
+    30% {transform: rotate3d(-1, -1, -1, -120deg)}
+    40% {transform: rotate3d(0, 0, -1, 150deg)}
+    50% {transform: rotate3d(1, 0, 1, -180deg)}
+    60% {transform: rotate3d(0, -1, 1, 220deg)}
+    70% {transform: rotate3d(-1, -1, 0, -245deg)}
+    80% {transform: rotate3d(-1, 1, -1, -290deg)}
+    90% {transform: rotate3d(0, -1, 1, 200deg)}
+    100% {transform: rotate3d(1, 1, 0, -5deg)}
+}
+
+
+
+
+
+2:
+-1, 1, 1, 245deg
+
+@keyframes turning {
+    0% {transform: rotate3d(1, 1, 1, -25deg)}
+    10% {transform: rotate3d(1, 0, 1, -60deg)}
+    20% {transform: rotate3d(1, -1, 0, -90deg)}
+    30% {transform: rotate3d(-1, -1, 1, -120deg)}
+    40% {transform: rotate3d(0, 0, -1, 150deg)}
+    50% {transform: rotate3d(1, 0, 0, -180deg)}
+    60% {transform: rotate3d(0, -1, 1, 220deg)}
+    70% {transform: rotate3d(0, -1, 0, -245deg)}
+    80% {transform: rotate3d(-1, 0, -1, -290deg)}
+    90% {transform: rotate3d(1, -1, 0, -200deg)}
+    100% {transform: rotate3d(-1, 1, 1, 245deg)}
+}
+
+
+
+
+
+3:
+-1, 1, -1, 245deg
+
+
+@keyframes turning {
+    0% {transform: rotate3d(1, 1, 1, -25deg)}
+    10% {transform: rotate3d(1, 0, 1, -60deg)}
+    20% {transform: rotate3d(-1, -1, 0, -90deg)}
+    30% {transform: rotate3d(-1, -1, 1, -120deg)}
+    40% {transform: rotate3d(-1, 1, -1, 150deg)}
+    50% {transform: rotate3d(1, 0, 0, -180deg)}
+    60% {transform: rotate3d(-1, 1, 1, 220deg)}
+    70% {transform: rotate3d(0, -1, 0, -245deg)}
+    80% {transform: rotate3d(-1, 1, -1, 290deg)}
+    90% {transform: rotate3d(0, 1, 1, -200deg)}
+    100% {transform: rotate3d(-1, 1, -1, 245deg)}
+}
+
+4:
+
+1, 1, -1, -245deg
+
+
+@keyframes turning {
+    0% {transform: rotate3d(1, 1, 1, -25deg)}
+    10% {transform: rotate3d(1, 0, 1, -60deg)}
+    20% {transform: rotate3d(-1, -1, 0, -90deg)}
+    30% {transform: rotate3d(0, -1, 1, -120deg)}
+    40% {transform: rotate3d(-1, 1, -1, 150deg)}
+    50% {transform: rotate3d(1, 0, 1, 180deg)}
+    60% {transform: rotate3d(-1, 1, 1, -220deg)}
+    70% {transform: rotate3d(1, 1, 0, 245deg)}
+    80% {transform: rotate3d(-1, -1, -1, -290deg)}
+    90% {transform: rotate3d(0, 0, 0, 120deg)}
+    100% {transform: rotate3d(1, 1, -1, -245deg)}
+}
+
+5:
+1, 1, -1, -125deg
+
+
+@keyframes turning {
+    0% {transform: rotate3d(1, 1, 1, -25deg)}
+    10% {transform: rotate3d(1, 0, 1, -60deg)}
+    20% {transform: rotate3d(-1, -1, 0, -90deg)}
+    30% {transform: rotate3d(0, -1, 1, -120deg)}
+    40% {transform: rotate3d(-1, 1, -1, 150deg)}
+    50% {transform: rotate3d(1, 0, 1, 180deg)}
+    60% {transform: rotate3d(-1, 1, 1, -220deg)}
+    70% {transform: rotate3d(1, 1, 0, 245deg)}
+    80% {transform: rotate3d(-1, -1, -1, -290deg)}
+    90% {transform: rotate3d(0, 0, 0, 220deg)}
+    100% {transform: rotate3d(1, 1, -1, -125deg)}
+}
+
+
+6: 
+1, 1, 0, 175deg
+
+
+@keyframes turning {
+    0% {transform: rotate3d(1, 1, 1, -25deg)}
+    10% {transform: rotate3d(1, 0, 1, -60deg)}
+    20% {transform: rotate3d(-1, -1, 0, -90deg)}
+    30% {transform: rotate3d(0, -1, 1, -120deg)}
+    40% {transform: rotate3d(-1, 1, -1, 150deg)}
+    50% {transform: rotate3d(1, -1, 1, 180deg)}
+    60% {transform: rotate3d(-1, 0, 1, -220deg)}
+    70% {transform: rotate3d(1, 1, 0, 245deg)}
+    80% {transform: rotate3d(0, -1, -1, -290deg)}
+    90% {transform: rotate3d(-1, 0, -1, 220deg)}
+    100% {transform: rotate3d(1, 1, 0, 175deg)}
+}
